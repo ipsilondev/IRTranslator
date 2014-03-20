@@ -26,7 +26,8 @@ Enter "I" to set up the input signals
 after that, is ready to use !
 
 
-### With love from:
+With love from:
+============
 
 **[Ipsilon Developments Inc.](http://www.ipsilondev.com)** released under **MIT license**
 
